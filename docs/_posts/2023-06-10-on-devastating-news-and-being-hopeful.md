@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "On devastating news and being hopeful"
+title:  "On Devastating News and Being Hopeful"
 date:   2023-06-10 22:41:00 +0200
 author:  Matt
 location: Home

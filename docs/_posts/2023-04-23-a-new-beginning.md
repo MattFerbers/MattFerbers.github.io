@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A new beginning"
+title:  "A New Beginning"
 date:   2023-04-30 22:05:00 +0200
 author:  Matt
 location: Home
